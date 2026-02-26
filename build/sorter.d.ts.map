@@ -1,0 +1,1 @@
+{"version":3,"file":"sorter.d.ts","sourceRoot":"","sources":["../src/sorter.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,iBAAiB,EAAE,MAAM,qBAAqB,CAAC;AAExD,qBAAa,MAAM;IACE,UAAU,EAAE,iBAAiB;gBAA7B,UAAU,EAAE,iBAAiB;IAEhD,IAAI,IAAI,IAAI;CAWb"}
